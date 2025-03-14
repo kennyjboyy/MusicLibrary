@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>Bohemian Rhapsody</songTitle>
+        <artist>Queen</artist>
+        <albums>
+            <album>A Night at the Opera</album>
+            <album>Greatest Hits</album>
+            <album>The Platinum Collection</album>
+        </albums>
+        <debutYear>1975</debutYear>
+    </song>
+    
+    <song id="2">
+        <songTitle>Shape of You</songTitle>
+        <artist>Ed Sheeran</artist>
+        <albums>
+            <album>÷ (Divide)</album>
+            <album>Essentials</album>
+            <album>Top Hits 2017</album>
+        </albums>
+        <debutYear>2017</debutYear>
+    </song>
+    
+    <song id="3">
+        <songTitle>Billie Jean</songTitle>
+        <artist>Michael Jackson</artist>
+        <albums>
+            <album>Thriller</album>
+            <album>History</album>
+            <album>The Essential Michael Jackson</album>
+        </albums>
+        <debutYear>1982</debutYear>
+    </song>
+    
+    <song id="4">
+        <songTitle>Rolling in the Deep</songTitle>
+        <artist>Adele</artist>
+        <albums>
+            <album>21</album>
+            <album>Greatest Hits</album>
+            <album>Live at the Royal Albert Hall</album>
+        </albums>
+        <debutYear>2010</debutYear>
+    </song>
+    
+    <song id="5">
+        <songTitle>Smells Like Teen Spirit</songTitle>
+        <artist>Nirvana</artist>
+        <albums>
+            <album>Nevermind</album>
+            <album>MTV Unplugged in New York</album>
+            <album>Greatest Hits</album>
+        </albums>
+        <debutYear>1991</debutYear>
+    </song>
+
+    <!-- 5 New OPM Songs from 2024-2025 -->
+    <song id="6">
+        <songTitle>Palagi</songTitle>
+        <artist>TJ Monterde</artist>
+        <albums>
+            <album>Palagi (Single)</album>
+            <album>TJ Monterde Greatest Hits</album>
+            <album>Acoustic Sessions</album>
+        </albums>
+        <debutYear>2024</debutYear>
+    </song>
+
+    <song id="7">
+        <songTitle>Dilaw</songTitle>
+        <artist>Maki</artist>
+        <albums>
+            <album>Dilaw (Single)</album>
+            <album>Maki: The Journey</album>
+            <album>OPM Rising Stars</album>
+        </albums>
+        <debutYear>2024</debutYear>
+    </song>
+
+    <song id="8">
+        <songTitle>Pantropiko</songTitle>
+        <artist>BINI</artist>
+        <albums>
+            <album>Talaarawan</album>
+            <album>Pantropiko (Single)</album>
+            <album>BINI: The Essentials</album>
+        </albums>
+        <debutYear>2024</debutYear>
+    </song>
+
+    <song id="9">
+        <songTitle>Salamin, Salamin</songTitle>
+        <artist>BINI</artist>
+        <albums>
+            <album>Talaarawan</album>
+            <album>Salamin, Salamin (Single)</album>
+            <album>BINI: Reflections</album>
+        </albums>
+        <debutYear>2024</debutYear>
+    </song>
+
+    <song id="10">
+        <songTitle>Sining</songTitle>
+        <artist>Dionela feat. Jay R</artist>
+        <albums>
+            <album>Sining (Single)</album>
+            <album>Dionela Collaborations</album>
+            <album>Jay R: The Duets</album>
+        </albums>
+        <debutYear>2024</debutYear>
+    </song>
+</music>
